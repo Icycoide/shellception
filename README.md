@@ -16,3 +16,5 @@ There is now an installer in Releases.
 There are now Shellception-specific commands.
 
 ```zhcpt-e``` brings you to your shellception shell script where you can run multiple commands at once or in the same order. 
+```zhcpt-e-k``` brings you to your shellception shell script without overwriting the contents
+```zhcpt-r``` runs the shell script.
