@@ -11,7 +11,9 @@ A simple shell-frontend designed to run on top of the Bourne-Again SHell (Bash) 
 
 ~~5. Then, just run ``./main.sh`` or ``. main.sh`` or ``bash main.sh`` however you open shell scripts.~~
 
-There is now an installer in Releases.
+~~Edit: There is now an installer in Releases.~~
+There is no installer.
+
 # Other/zhcpt commands
 There are now Shellception-specific commands.
 
