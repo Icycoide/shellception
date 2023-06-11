@@ -1,4 +1,4 @@
-# shellception (discontinued)
+# shellception (discontinued, please check [Costmiku/FluxT3rm](https://github.com/Costmiku/FluxT3rm))
 A simple shell-frontend designed to run on top of the Bourne-Again SHell (Bash) Shell Scripting Interpreter
 # Instructions
 ~~1. Download it~~
